@@ -12,9 +12,10 @@ HTML, CSS, JavaScript, ReactJS
 While creating of this web app i used dynamic data flow model using react and provide data with the use of createContext React API to avoid prop drilling and keep all logic in one file for debugging and i also use moduler css model for component styling. 
 
 
-### `npm i`
-### `npm start`
 
+### `npm i`
+for installing dependencies
+### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
