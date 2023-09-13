@@ -1,15 +1,19 @@
 # Created a feature that allows customers to build a custom pack of 8 items, consisting of a combination of different chocolates.
 
 
+
 Hoested Link -> https://musical-kashata-4af228.netlify.app/
+
 
 
 ## Teck Stack Used
 HTML, CSS, JavaScript, ReactJS
 
 
-##brief explanation
+
+#brief explanation
 While creating of this web app i used dynamic data flow model using react and provide data with the use of createContext React API to avoid prop drilling and keep all logic in one file for debugging and i also use moduler css model for component styling. 
+
 
 
 
