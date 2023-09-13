@@ -9,7 +9,7 @@ HTML, CSS, JavaScript, ReactJS
 
 
 
-# brief explanation
+# Brief explanation
 While creating of this web app i used dynamic data flow model using react and provide data with the use of createContext React API to avoid prop drilling and keep all logic in one file for debugging and i also use moduler css model for component styling. 
 
 
