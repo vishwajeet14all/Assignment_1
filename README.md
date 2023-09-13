@@ -1,7 +1,7 @@
 # Created a feature that allows customers to build a custom pack of 8 items, consisting of a combination of different chocolates.
 
 
-Hoested Link -> https://musical-kashata-4af228.netlify.app/
+Hostied Link -> https://musical-kashata-4af228.netlify.app/
 
 
 ## Teck Stack Used
