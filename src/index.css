@@ -1,0 +1,27 @@
+
+:root {
+  --accent-color: #EB6440;
+  --primary-color: #EFF5F5;
+  --secondary-color: #497174;
+  --tertiary-color: #D6E4E5;
+}
+
+body {
+  margin: 0;
+  font-family:sans-serif;  
+  background-color: var(--tertiary-color);
+}
+
+code {
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: sans-serif;
+}
+
